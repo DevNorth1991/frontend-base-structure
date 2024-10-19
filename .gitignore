@@ -1,0 +1,8 @@
+# Contenido recomendado para .gitignore
+node_modules/
+.vscode/
+.DS_Store
+*.log
+dist/
+build/
+.env
